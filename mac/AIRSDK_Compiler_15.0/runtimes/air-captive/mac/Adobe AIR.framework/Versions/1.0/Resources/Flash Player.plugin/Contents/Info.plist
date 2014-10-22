@@ -19,11 +19,11 @@
 	<key>CFBundlePackageType</key>
 	<string>BRPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>15.0.0.151</string>
+	<string>15.0.0.195</string>
 	<key>CFBundleSignature</key>
 	<string>MOSS</string>
 	<key>CFBundleVersion</key>
-	<string>15.0.0.151</string>
+	<string>15.0.0.195</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
