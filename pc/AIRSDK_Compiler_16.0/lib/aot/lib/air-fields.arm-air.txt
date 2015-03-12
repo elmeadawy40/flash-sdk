@@ -4521,7 +4521,7 @@ struct 16 avmplus::MessageChannelStateObject flash.system::MessageChannelState
 
 struct 24 avmplus::MessageChannelClass flash.system::MessageChannel$
 
-struct 64 avmplus::MessageChannelObject flash.system::MessageChannel
+struct 68 avmplus::MessageChannelObject flash.system::MessageChannel
 
 struct 24 avmplus::FrameLabelClass flash.display::FrameLabel$
 
