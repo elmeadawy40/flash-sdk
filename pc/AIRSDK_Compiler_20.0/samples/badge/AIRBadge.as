@@ -191,7 +191,7 @@ package {
 			return color;
 		}
 
-		private const BROWSERAPI_URL_BASE: String = "http://airdownload.adobe.com/air/browserapi";
+		private const BROWSERAPI_URL_BASE: String = "https://airdownload.adobe.com/air/browserapi";
 
 		private var _messageColor: String;
 		private var _buttonColor: String;

@@ -305,7 +305,7 @@ struct 40 avmplus::DateObject Date
 struct 56 avmplus::RegExpClass RegExp$
 field 48 i length 1
 
-struct 64 avmplus::RegExpObject RegExp
+struct 72 avmplus::RegExpObject RegExp
 
 struct 56 avmplus::JSONClass JSON$
 field 48 *'avmplus::Namespace' private_as3ns 1
